@@ -3,7 +3,7 @@ import { add, setupCounter } from "./counter.ts";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
-    <h1>Vite + TypeScript</h1>
+    <h1 class="text-5xl font-bold">Vite + TypeScript</h1>
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
