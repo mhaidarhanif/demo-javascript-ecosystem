@@ -1,0 +1,16 @@
+{
+  "name": "packages-npm",
+  "version": "1.0.0",
+  "description": "Demo Packages with npm",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "packages",
+    "npm"
+  ],
+  "author": "M Haidar Hanif <npm@mhaidarhanif.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
